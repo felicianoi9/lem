@@ -7,9 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "rogério Feliciano dos Santos",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7",
+    "mongoose-paginate": "^5.0.3",
+    "require-dir": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
   }
 }
